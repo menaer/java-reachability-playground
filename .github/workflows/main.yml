@@ -1,5 +1,5 @@
 name: Example workflow for Maven using Synk
-on: Push 
+on: push 
 jobs:
   security:
     runs-on: ubuntu-latest
